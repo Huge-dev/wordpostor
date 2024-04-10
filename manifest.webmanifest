@@ -1,0 +1,15 @@
+{
+    "name": "Wordpostor",
+    "short_name": "Wordpostor",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#2A2A2A",
+    "theme_color": "#000",
+    "description": "The game where everyone know the word except one.",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
