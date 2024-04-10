@@ -1,9 +1,9 @@
 const cacheName = "Hugo Salonen-Wordpostor-1.0";
 const contentToCache = [
     "Build/Wordpostor.loader.js",
-    "Build/Wordpostor.framework.js.br",
-    "Build/Wordpostor.data.br",
-    "Build/Wordpostor.wasm.br",
+    "Build/Wordpostor.framework.js",
+    "Build/Wordpostor.data",
+    "Build/Wordpostor.wasm",
     "TemplateData/style.css"
 
 ];
